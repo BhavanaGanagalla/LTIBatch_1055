@@ -1,0 +1,14 @@
+C:\Users\lucky\source\repos\SwitchCaseAssessment\SwitchCaseAssessment\bin\Debug\netcoreapp3.1\SwitchCaseAssessment.exe
+C:\Users\lucky\source\repos\SwitchCaseAssessment\SwitchCaseAssessment\bin\Debug\netcoreapp3.1\SwitchCaseAssessment.deps.json
+C:\Users\lucky\source\repos\SwitchCaseAssessment\SwitchCaseAssessment\bin\Debug\netcoreapp3.1\SwitchCaseAssessment.runtimeconfig.json
+C:\Users\lucky\source\repos\SwitchCaseAssessment\SwitchCaseAssessment\bin\Debug\netcoreapp3.1\SwitchCaseAssessment.runtimeconfig.dev.json
+C:\Users\lucky\source\repos\SwitchCaseAssessment\SwitchCaseAssessment\bin\Debug\netcoreapp3.1\SwitchCaseAssessment.dll
+C:\Users\lucky\source\repos\SwitchCaseAssessment\SwitchCaseAssessment\bin\Debug\netcoreapp3.1\SwitchCaseAssessment.pdb
+C:\Users\lucky\source\repos\SwitchCaseAssessment\SwitchCaseAssessment\obj\Debug\netcoreapp3.1\SwitchCaseAssessment.csproj.AssemblyReference.cache
+C:\Users\lucky\source\repos\SwitchCaseAssessment\SwitchCaseAssessment\obj\Debug\netcoreapp3.1\SwitchCaseAssessment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucky\source\repos\SwitchCaseAssessment\SwitchCaseAssessment\obj\Debug\netcoreapp3.1\SwitchCaseAssessment.AssemblyInfoInputs.cache
+C:\Users\lucky\source\repos\SwitchCaseAssessment\SwitchCaseAssessment\obj\Debug\netcoreapp3.1\SwitchCaseAssessment.AssemblyInfo.cs
+C:\Users\lucky\source\repos\SwitchCaseAssessment\SwitchCaseAssessment\obj\Debug\netcoreapp3.1\SwitchCaseAssessment.csproj.CoreCompileInputs.cache
+C:\Users\lucky\source\repos\SwitchCaseAssessment\SwitchCaseAssessment\obj\Debug\netcoreapp3.1\SwitchCaseAssessment.dll
+C:\Users\lucky\source\repos\SwitchCaseAssessment\SwitchCaseAssessment\obj\Debug\netcoreapp3.1\SwitchCaseAssessment.pdb
+C:\Users\lucky\source\repos\SwitchCaseAssessment\SwitchCaseAssessment\obj\Debug\netcoreapp3.1\SwitchCaseAssessment.genruntimeconfig.cache

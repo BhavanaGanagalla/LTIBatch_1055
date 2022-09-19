@@ -1,0 +1,14 @@
+C:\Users\lucky\source\repos\Non_Generic_CollectionProgram\Non_Generic_CollectionProgram\bin\Debug\netcoreapp3.1\Non_Generic_CollectionProgram.exe
+C:\Users\lucky\source\repos\Non_Generic_CollectionProgram\Non_Generic_CollectionProgram\bin\Debug\netcoreapp3.1\Non_Generic_CollectionProgram.deps.json
+C:\Users\lucky\source\repos\Non_Generic_CollectionProgram\Non_Generic_CollectionProgram\bin\Debug\netcoreapp3.1\Non_Generic_CollectionProgram.runtimeconfig.json
+C:\Users\lucky\source\repos\Non_Generic_CollectionProgram\Non_Generic_CollectionProgram\bin\Debug\netcoreapp3.1\Non_Generic_CollectionProgram.runtimeconfig.dev.json
+C:\Users\lucky\source\repos\Non_Generic_CollectionProgram\Non_Generic_CollectionProgram\bin\Debug\netcoreapp3.1\Non_Generic_CollectionProgram.dll
+C:\Users\lucky\source\repos\Non_Generic_CollectionProgram\Non_Generic_CollectionProgram\bin\Debug\netcoreapp3.1\Non_Generic_CollectionProgram.pdb
+C:\Users\lucky\source\repos\Non_Generic_CollectionProgram\Non_Generic_CollectionProgram\obj\Debug\netcoreapp3.1\Non_Generic_CollectionProgram.csproj.AssemblyReference.cache
+C:\Users\lucky\source\repos\Non_Generic_CollectionProgram\Non_Generic_CollectionProgram\obj\Debug\netcoreapp3.1\Non_Generic_CollectionProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucky\source\repos\Non_Generic_CollectionProgram\Non_Generic_CollectionProgram\obj\Debug\netcoreapp3.1\Non_Generic_CollectionProgram.AssemblyInfoInputs.cache
+C:\Users\lucky\source\repos\Non_Generic_CollectionProgram\Non_Generic_CollectionProgram\obj\Debug\netcoreapp3.1\Non_Generic_CollectionProgram.AssemblyInfo.cs
+C:\Users\lucky\source\repos\Non_Generic_CollectionProgram\Non_Generic_CollectionProgram\obj\Debug\netcoreapp3.1\Non_Generic_CollectionProgram.csproj.CoreCompileInputs.cache
+C:\Users\lucky\source\repos\Non_Generic_CollectionProgram\Non_Generic_CollectionProgram\obj\Debug\netcoreapp3.1\Non_Generic_CollectionProgram.dll
+C:\Users\lucky\source\repos\Non_Generic_CollectionProgram\Non_Generic_CollectionProgram\obj\Debug\netcoreapp3.1\Non_Generic_CollectionProgram.pdb
+C:\Users\lucky\source\repos\Non_Generic_CollectionProgram\Non_Generic_CollectionProgram\obj\Debug\netcoreapp3.1\Non_Generic_CollectionProgram.genruntimeconfig.cache

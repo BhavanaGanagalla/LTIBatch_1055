@@ -1,0 +1,14 @@
+C:\Users\lucky\source\repos\ArraysAssessment\ArraysAssessment\bin\Debug\netcoreapp3.1\ArraysAssessment.exe
+C:\Users\lucky\source\repos\ArraysAssessment\ArraysAssessment\bin\Debug\netcoreapp3.1\ArraysAssessment.deps.json
+C:\Users\lucky\source\repos\ArraysAssessment\ArraysAssessment\bin\Debug\netcoreapp3.1\ArraysAssessment.runtimeconfig.json
+C:\Users\lucky\source\repos\ArraysAssessment\ArraysAssessment\bin\Debug\netcoreapp3.1\ArraysAssessment.runtimeconfig.dev.json
+C:\Users\lucky\source\repos\ArraysAssessment\ArraysAssessment\bin\Debug\netcoreapp3.1\ArraysAssessment.dll
+C:\Users\lucky\source\repos\ArraysAssessment\ArraysAssessment\bin\Debug\netcoreapp3.1\ArraysAssessment.pdb
+C:\Users\lucky\source\repos\ArraysAssessment\ArraysAssessment\obj\Debug\netcoreapp3.1\ArraysAssessment.csproj.AssemblyReference.cache
+C:\Users\lucky\source\repos\ArraysAssessment\ArraysAssessment\obj\Debug\netcoreapp3.1\ArraysAssessment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucky\source\repos\ArraysAssessment\ArraysAssessment\obj\Debug\netcoreapp3.1\ArraysAssessment.AssemblyInfoInputs.cache
+C:\Users\lucky\source\repos\ArraysAssessment\ArraysAssessment\obj\Debug\netcoreapp3.1\ArraysAssessment.AssemblyInfo.cs
+C:\Users\lucky\source\repos\ArraysAssessment\ArraysAssessment\obj\Debug\netcoreapp3.1\ArraysAssessment.csproj.CoreCompileInputs.cache
+C:\Users\lucky\source\repos\ArraysAssessment\ArraysAssessment\obj\Debug\netcoreapp3.1\ArraysAssessment.dll
+C:\Users\lucky\source\repos\ArraysAssessment\ArraysAssessment\obj\Debug\netcoreapp3.1\ArraysAssessment.pdb
+C:\Users\lucky\source\repos\ArraysAssessment\ArraysAssessment\obj\Debug\netcoreapp3.1\ArraysAssessment.genruntimeconfig.cache

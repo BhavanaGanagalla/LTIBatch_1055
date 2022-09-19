@@ -1,0 +1,14 @@
+C:\Users\lucky\source\repos\ConsoleApp_Function\ConsoleApp_Function\obj\Debug\netcoreapp3.1\ConsoleApp_Function.csproj.AssemblyReference.cache
+C:\Users\lucky\source\repos\ConsoleApp_Function\ConsoleApp_Function\obj\Debug\netcoreapp3.1\ConsoleApp_Function.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucky\source\repos\ConsoleApp_Function\ConsoleApp_Function\obj\Debug\netcoreapp3.1\ConsoleApp_Function.AssemblyInfoInputs.cache
+C:\Users\lucky\source\repos\ConsoleApp_Function\ConsoleApp_Function\obj\Debug\netcoreapp3.1\ConsoleApp_Function.AssemblyInfo.cs
+C:\Users\lucky\source\repos\ConsoleApp_Function\ConsoleApp_Function\obj\Debug\netcoreapp3.1\ConsoleApp_Function.csproj.CoreCompileInputs.cache
+C:\Users\lucky\source\repos\ConsoleApp_Function\ConsoleApp_Function\bin\Debug\netcoreapp3.1\ConsoleApp_Function.exe
+C:\Users\lucky\source\repos\ConsoleApp_Function\ConsoleApp_Function\bin\Debug\netcoreapp3.1\ConsoleApp_Function.deps.json
+C:\Users\lucky\source\repos\ConsoleApp_Function\ConsoleApp_Function\bin\Debug\netcoreapp3.1\ConsoleApp_Function.runtimeconfig.json
+C:\Users\lucky\source\repos\ConsoleApp_Function\ConsoleApp_Function\bin\Debug\netcoreapp3.1\ConsoleApp_Function.runtimeconfig.dev.json
+C:\Users\lucky\source\repos\ConsoleApp_Function\ConsoleApp_Function\bin\Debug\netcoreapp3.1\ConsoleApp_Function.dll
+C:\Users\lucky\source\repos\ConsoleApp_Function\ConsoleApp_Function\bin\Debug\netcoreapp3.1\ConsoleApp_Function.pdb
+C:\Users\lucky\source\repos\ConsoleApp_Function\ConsoleApp_Function\obj\Debug\netcoreapp3.1\ConsoleApp_Function.dll
+C:\Users\lucky\source\repos\ConsoleApp_Function\ConsoleApp_Function\obj\Debug\netcoreapp3.1\ConsoleApp_Function.pdb
+C:\Users\lucky\source\repos\ConsoleApp_Function\ConsoleApp_Function\obj\Debug\netcoreapp3.1\ConsoleApp_Function.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\lucky\source\repos\FunctionrefAssessment\FunctionrefAssessment\bin\Debug\netcoreapp3.1\FunctionrefAssessment.exe
+C:\Users\lucky\source\repos\FunctionrefAssessment\FunctionrefAssessment\bin\Debug\netcoreapp3.1\FunctionrefAssessment.deps.json
+C:\Users\lucky\source\repos\FunctionrefAssessment\FunctionrefAssessment\bin\Debug\netcoreapp3.1\FunctionrefAssessment.runtimeconfig.json
+C:\Users\lucky\source\repos\FunctionrefAssessment\FunctionrefAssessment\bin\Debug\netcoreapp3.1\FunctionrefAssessment.runtimeconfig.dev.json
+C:\Users\lucky\source\repos\FunctionrefAssessment\FunctionrefAssessment\bin\Debug\netcoreapp3.1\FunctionrefAssessment.dll
+C:\Users\lucky\source\repos\FunctionrefAssessment\FunctionrefAssessment\bin\Debug\netcoreapp3.1\FunctionrefAssessment.pdb
+C:\Users\lucky\source\repos\FunctionrefAssessment\FunctionrefAssessment\obj\Debug\netcoreapp3.1\FunctionrefAssessment.csproj.AssemblyReference.cache
+C:\Users\lucky\source\repos\FunctionrefAssessment\FunctionrefAssessment\obj\Debug\netcoreapp3.1\FunctionrefAssessment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucky\source\repos\FunctionrefAssessment\FunctionrefAssessment\obj\Debug\netcoreapp3.1\FunctionrefAssessment.AssemblyInfoInputs.cache
+C:\Users\lucky\source\repos\FunctionrefAssessment\FunctionrefAssessment\obj\Debug\netcoreapp3.1\FunctionrefAssessment.AssemblyInfo.cs
+C:\Users\lucky\source\repos\FunctionrefAssessment\FunctionrefAssessment\obj\Debug\netcoreapp3.1\FunctionrefAssessment.csproj.CoreCompileInputs.cache
+C:\Users\lucky\source\repos\FunctionrefAssessment\FunctionrefAssessment\obj\Debug\netcoreapp3.1\FunctionrefAssessment.dll
+C:\Users\lucky\source\repos\FunctionrefAssessment\FunctionrefAssessment\obj\Debug\netcoreapp3.1\FunctionrefAssessment.pdb
+C:\Users\lucky\source\repos\FunctionrefAssessment\FunctionrefAssessment\obj\Debug\netcoreapp3.1\FunctionrefAssessment.genruntimeconfig.cache

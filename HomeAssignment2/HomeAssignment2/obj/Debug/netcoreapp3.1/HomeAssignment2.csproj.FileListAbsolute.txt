@@ -1,0 +1,5 @@
+C:\Users\lucky\source\repos\HomeAssignment2\HomeAssignment2\obj\Debug\netcoreapp3.1\HomeAssignment2.csproj.AssemblyReference.cache
+C:\Users\lucky\source\repos\HomeAssignment2\HomeAssignment2\obj\Debug\netcoreapp3.1\HomeAssignment2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucky\source\repos\HomeAssignment2\HomeAssignment2\obj\Debug\netcoreapp3.1\HomeAssignment2.AssemblyInfoInputs.cache
+C:\Users\lucky\source\repos\HomeAssignment2\HomeAssignment2\obj\Debug\netcoreapp3.1\HomeAssignment2.AssemblyInfo.cs
+C:\Users\lucky\source\repos\HomeAssignment2\HomeAssignment2\obj\Debug\netcoreapp3.1\HomeAssignment2.csproj.CoreCompileInputs.cache
